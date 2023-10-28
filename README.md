@@ -175,8 +175,9 @@ New goals soon? ;)
 [B]If you're having issues using the plugin, please contact us BEFORE making a review. We *cannot* give support in the review section.[/B][/SIZE]
 ```
 
-# [Hangar]([https://www.spigotmc.org/resources/skinsrestorer.2124](https://hangar.papermc.io/SRTeam/SkinsRestorer))
-```
+# [Hangar](https://hangar.papermc.io/SRTeam/SkinsRestorer)
+
+```markdown
 # SkinsRestorer
 
 #### <center>[Join us at our Discord  server for support](https://skinsrestorer.net/discord)  :)
@@ -351,4 +352,50 @@ If you're a big server and plan to use this consider donating to us (PM) so that
 
 ##### *(we are not open for paid advertising)*
 end, no seriously just rate us already ^w^.
+```
+
+## [Ore](https://ore.spongepowered.org/SRTeam/SkinsRestorer)
+
+```markdown
+# SkinsRestorer
+
+[Website](https://skinsrestorer.net) | [Documentation](https://skinsrestorer.net/docs) | [Discord Support Chat](https://skinsrestorer.net/discord) | [Dev builds](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorerX-DEV/)
+
+## What is SkinsRestorer?
+SkinsRestorer is a plugin that restores skins for offline mode servers & networks that gives the players ability to change their skins by typing a single command.
+
+## Where can I use SkinsRestorer?
+Currently, you can use SkinsRestorer on these platforms:
+
+Servers:
+
+* CraftBukkit and forks (e.g. Spigot, Paper, Purpur, TacoSpigot)
+* Sponge (SpongeForge mods sometimes are incompatible)
+
+Proxies:
+
+* BungeeCord and forks (e.g. Waterfall, FlexPipe)
+* Velocity
+
+## How can I install SkinsRestorer?
+*It's easy to install SkinsRestorer!*
+
+All the steps are detailed in [our installation guide](https://skinsrestorer.net/docs/installation).
+
+## What are the Commands and Permissions?
+Read the [official documentation](https://skinsrestorer.net/docs/configuration/commands-permissions) for a list of commands and permissions.
+
+## What if I need support?
+If you need any support you can join our Discord server, so we can help you out. :)
+
+[![SkinsRestorer Discord](https://discord.com/api/guilds/186794372468178944/widget.png?style=banner2)](https://skinsrestorer.net/discord)
+
+## Tools
+Here are some tools built for SkinsRestorer:
+
+### SkinFile Generator
+With SkinFile Generator you can upload your own custom .png skin to get a unique .skin file that you can put in your skins folder. Check it out [on GitHub](https://skinsrestorer.github.io/SkinFile-Generator/).
+
+### SkinSystem
+SkinSystem is a website that can interact with AuthMe to allow users to upload, manage, view and select custom skins on a website. Check it out [on GitHub](https://github.com/SkinsRestorer/SkinSystem).
 ```
