@@ -174,3 +174,181 @@ New goals soon? ;)
 
 [B]If you're having issues using the plugin, please contact us BEFORE making a review. We *cannot* give support in the review section.[/B][/SIZE]
 ```
+
+# [Hangar]([https://www.spigotmc.org/resources/skinsrestorer.2124](https://hangar.papermc.io/SRTeam/SkinsRestorer))
+```
+# SkinsRestorer
+
+#### <center>[Join us at our Discord  server for support](https://skinsrestorer.net/discord)  :)
+##### <center>Completely working from 1.8 till 1.19.4 Spigot!
+##### <center>IF you use Tlauncher, turn "Use Skins" OFF under account settings
+
+### <center> [Wiki](https://github.com/skinsrestorer/skinsrestorerx/wiki) | [Discord Support Chat](https://skinsrestorer.net/discord) | [DEV build](https://ci.codemc.io/job/skinsrestorer/job/skinsrestorerx-dev/) |  [Source](https://github.com/skinsrestorer/skinsrestorerx/releases)
+
+## **Tools:**
+Useful tools for custom skins:
+
+### **SkinFile Generator**
+With SkinFile Generator you can upload your own custom .png skin to get a unique .skin file that you can put in your skins folder. Check it out here: [https://skinsrestorer.github.io/SkinFile-Generator/](https://skinsrestorer.github.io/SkinFile-Generator/)
+
+### **SkinSystem**
+SkinSystem is a website that can interact with AuthMe (and forum)
+to allow users to upload, manage, view and select custom skins on a website. Check it out here: [https://github.com/SkinsRestorer/SkinSystem](https://github.com/SkinsRestorer/SkinSystem)
+
+## **What is SkinsRestorer?**
+SkinsRestorer is a plugin that restores skins for offline mode servers & networks that gives the players ability to change their skins by typing a single command.
+
+## **Any videos about SkinsRestorer?**
+Yes. There are videos about SkinsRestorer in French, Spanish, German, Italian and portuguese!
+<details>
+<summary>videos</summary>
+
+
+*(They might be outdated!)*
+## **French
+@[YouTube](https://youtu.be/3_UPBX-l_Ss)
+Spanish
+@[YouTube](https://youtu.be/jXDjK2iooaA)
+German
+@[YouTube](https://youtu.be/96cd8J8bK0g)
+Italian
+@[YouTube](https://youtu.be/WZ24FCTX2T8)
+Português
+@[YouTube](https://youtu.be/kD_5myPSz18)
+Nederlands
+@[YouTube](https://youtu.be/fobdKSzZHLY)**
+
+</details>
+
+
+## **Where can I use SkinsRestorer?**
+Currently, you can use SkinsRestorer on these platforms:
+### **Servers:**
+
+* *CraftBukkit*
+* *Spigot*
+* *Paper*
+* *TacoSpigot*
+* *SpongeVanilla (not Forge)*
+
+### **Proxys:**
+
+* *BungeeCord* 
+* *Waterfall (PaperMC)*
+* *FlexPipe*
+* *VelocityPowered*
+
+## **How can I install SkinsRestorer?**
+It's easy to install SkinsRestorer.
+Follow this little guide, so you don't go wrong :)
+For more info, see [[wiki](https://github.com/skinsrestorer/skinsrestorerx/wiki/installing-skinsrestorer)]
+**Note: Make sure to review BungeeCord installation steps if you're using a proxy!**
+
+**For Spigot / Paper:**
+
+* Place the plugin in **./plugins/** folder.
+* Restart the server.
+* *Optional* Edit the config.yml inside **./plugins/SkinsRestorer/** folder.
+
+**For BungeeCord / Waterfall:**
+
+* Place the plugin in **/plugins/** folders of **every Spigot** server.
+* Place the plugin in **/plugins/** folder of **every BungeeCord** server.
+* Check & set on **every Spigot** server **spigot.yml** -> **bungeecord: true**
+* Give **permissions** inside the **bungee** server
+* Restart the server.
+* *Optional* Edit the config inside **bungee/plugins/SkinsRestorer/** folder.
+
+**For Sponge:**
+
+* Place the plugin in .**/mods/** folder *(where Sponge is located).*
+* Restart the server.
+
+**For Velocity:**
+**[!] Paper is suggested for velocity [!]**
+
+* Place the SkinsRestorer.jar in **/plugins/** folders of **every Paper** server.
+* Place the SkinsRestorer.jar in **/plugins/** folder of **every Velocity** server.
+* Check & set on **every Paper** server **paper.yml** -> **velocity-support: enabled: true**
+* Restart (/restart or /stop) all servers [PlugMan and /reload are NOT supported, use /stop or /end]
+* *Optional* Edit the config inside **velocity/plugins/skinsrestorer/** folder.
+
+## **What are the Commands?**
+Here's a list with commands and permissions to use them
+**Note: If you use the plugin with bungeecord you will need to set the permission on the bungeecord side** **(e.g. config.yml)**
+
+**More info & Permissions see: [[wiki](https://github.com/skinsrestorer/skinsrestorerx/wiki/cmds-&-perms#new-136-commands)]**
+[!] only works with "NewPermissions: true" (if false see old perms!)
+[!] wildcards ("*") don't work 
+
+**Player commands:**
+/skin - main command.
+/skin <skinname> - Sets your skin.
+/skin url <skin.png url> [steve / slim] - set a skin from a .png url
+/skin update - Updates your current skin.
+/skin clear - clears your skin.
+/skins - GUI
+
+**Admin commands:**
+/sr - main admin command
+/skin set <playername> <skinname> - Sets player's skin.
+/skin clear <player> - clear a player's skin.
+/skin update <player> update a player's skin.
+/sr drop <skinname> - Removes skins data from database.
+/sr createcustom <name> <skin.png url> - Define a usable custom skin.
+/sr reload - Reloads config and locale.
+/sr props <playername> - Returns properties of a player.
+/sr status - check the plugin status.
+
+**Additional Permissions:**
+*skinsrestorer.*bypasscooldown -> bypasses skinscooldown config
+*skinsrestorer.*bypassdisabled -> bypass the disabledskins list
+
+## **What if I need support?**
+If you need any support you can **[Join us at our Discord channel](https://skinsrestorer.net/discord),**
+so we can help you out :)
+
+## **Meet the Team:**
+[xknat](https://www.spigotmc.org/members/57992/) - Developer
+[Pistonmaster](https://www.spigotmc.org/members/pistonmaster.847485/) - Developer
+
+[Logics](https://www.spigotmc.org/members/204708/) - Maintainer
+[SloPlays](https://www.spigotmc.org/members/123155/) - Website & backend
+Angel_0 - support
+mono21400 - support
+[CodeR](https://www.spigotmc.org/members/211343/) - Skinsystem intergration dev
+ITZVGcGPmO - Skinsystem intergration dev
+
+[McLive](https://www.spigotmc.org/members/1332/) - Retired dev
+[Th3Tr0LLeR](https://www.spigotmc.org/members/21930/) - Retired Founder
+[Blackfire62](https://www.spigotmc.org/members/26105/) - Retired dev
+[DoNotSpamPls](https://www.spigotmc.org/members/247276/) - Retired dev
+HyperGaming18 - Retired support
+
+## **Stats:**
+**Bukkit:**
+[![https://bstats.org/signatures/bukkit/SkinsRestorer.svg](https://bstats.org/signatures/bukkit/SkinsRestorer.svg)](http://bstats.org/plugin/bukkit/skinsrestorer)
+**BungeeCord:**
+[![https://bstats.org/signatures/bungeecord/SkinsRestorer.svg](https://bstats.org/signatures/bungeecord/SkinsRestorer.svg)](http://bstats.org/plugin/bungeecord/skinsrestorer)
+**Velocity:**
+[![https://bstats.org/signatures/velocity/SkinsRestorer.svg](https://bstats.org/signatures/velocity/SkinsRestorer.svg)](https://bstats.org/plugin/velocity/skinsrestorer) 
+
+<details>
+<summary>bstats sponge</summary>
+**Sponge:**
+![https://bstats.org/signatures/sponge/SkinsRestorer.svg](https://bstats.org/signatures/sponge/SkinsRestorer.svg)
+</details>
+
+## ***Want to support us and the plugin ?
+We have spent many of our time by working on to this, we made it free so that any server could enjoy it.
+If you're a big server and plan to use this consider donating to us (PM) so that I can thank you and keep working on this.***
+
+## **Plugins that use SkinsRestorer**
+<details>
+<summary>Plugin List</summary>
+[SybHideAndSeek](https://www.spigotmc.org/resources/sybhideandseek.76143/) - Play Hide and Seek on minecraft.
+</details>
+
+##### *(we are not open for paid advertising)*
+end, no seriously just rate us already ^w^.
+```
