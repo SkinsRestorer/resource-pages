@@ -5,7 +5,7 @@ Our BBCode and Markdown from SpigotMC, Hangar, Ore and other websites.
 
 ```
 [CENTER][B][SIZE=4][URL='https://skinsrestorer.net/discord']Join us at our Discord [ATTACH=full]709036[/ATTACH] server for support[/URL]  :)[/SIZE][/B]
-[SIZE=5][COLOR=#00b300]Completely working from 1.8 till 1.20[/COLOR][COLOR=#006633][B].2[/B][/COLOR][COLOR=#00b300] Spigot![/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#00b300]Completely working from 1.8 till 1.20[/COLOR][COLOR=#006633][B].4[/B][/COLOR][COLOR=#00b300] Spigot![/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=4]If you use [COLOR=#0080ff]TLauncher[/COLOR], [URL='https://skinsrestorer.net/docs/troubleshooting/launcher-issues#tlauncher']read the documentation[/URL] to fix compatibility issues[/SIZE]
 
