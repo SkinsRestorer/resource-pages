@@ -11,7 +11,7 @@ Our BBCode and Markdown from SpigotMC, Hangar, Ore and other websites.
 
 [MEDIA=youtube]T9bYwNB0AVk[/MEDIA]
 
-[URL='https://skinsrestorer.net']Website[/URL] | [URL='https://skinsrestorer.net/docs']Documentation[/URL] | [URL='https://skinsrestorer.net/discord']Discord Server[/URL] | [URL='https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer-DEV/']Dev builds[/URL][/CENTER]
+[URL='https://skinsrestorer.net']Website[/URL] | [URL='https://skinsrestorer.net/docs']Documentation[/URL] | [URL='https://skinsrestorer.net/discord']Discord Server[/URL] | [URL='https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer/']Dev builds[/URL][/CENTER]
 
 [B][SIZE=6][COLOR=#0000b3]What is SkinsRestorer?[/COLOR][/SIZE][/B]
 SkinsRestorer is a plugin that restores skins for offline mode servers & networks that gives the players ability to change their skins by typing a single command.
@@ -184,7 +184,7 @@ New goals soon? ;)
 ##### <center>Completely working from 1.8 till 1.19.4 Spigot!
 ##### <center>IF you use Tlauncher, turn "Use Skins" OFF under account settings
 
-### <center> [Wiki](https://github.com/skinsrestorer/SkinsRestorer/wiki) | [Discord Support Chat](https://skinsrestorer.net/discord) | [DEV build](https://ci.codemc.io/job/skinsrestorer/job/SkinsRestorer-dev/) |  [Source](https://github.com/skinsrestorer/SkinsRestorer/releases)
+### <center> [Wiki](https://github.com/skinsrestorer/SkinsRestorer/wiki) | [Discord Support Chat](https://skinsrestorer.net/discord) | [DEV build](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer/) |  [Source](https://github.com/skinsrestorer/SkinsRestorer/releases)
 
 ## **Tools:**
 Useful tools for custom skins:
@@ -359,7 +359,7 @@ end, no seriously just rate us already ^w^.
 ```markdown
 # SkinsRestorer
 
-[Website](https://skinsrestorer.net) | [Documentation](https://skinsrestorer.net/docs) | [Discord Support Chat](https://skinsrestorer.net/discord) | [Dev builds](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer-DEV/)
+[Website](https://skinsrestorer.net) | [Documentation](https://skinsrestorer.net/docs) | [Discord Support Chat](https://skinsrestorer.net/discord) | [Dev builds](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer/)
 
 ## What is SkinsRestorer?
 SkinsRestorer is a plugin that restores skins for offline mode servers & networks that gives the players ability to change their skins by typing a single command.
