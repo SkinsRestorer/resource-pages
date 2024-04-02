@@ -131,7 +131,7 @@ PloudOS - 52 USD - [URL='https://ploudos.com/']PloudOS.com[/URL][/B]
 [URL='https://www.spigotmc.org/members/41992/'][B]laer[/B][/URL][COLOR=rgb(44, 44, 44)][B] 3 USD - [/B][/COLOR][B][URL='http://packmancraft.enjin.com']PackManCraft[/URL][/B][/SIZE][/SPOILER]
 
 [COLOR=rgb(44, 44, 44)][SIZE=4]Message us if you've donated.[/SIZE][/COLOR]
-[SIZE=4]Donate to us today: [[URL='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5U2HMU5QU3BSE&source=url']EURO[/URL]] [[URL='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E6ZEYLWSVDTYU&source=url']USD[/URL]][/SIZE]
+[SIZE=4]Donate to us today: [URL='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5U2HMU5QU3BSE&source=url']EURO[/URL] / [URL='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E6ZEYLWSVDTYU&source=url']USD[/URL][/SIZE]
 
 [B][I][SIZE=6][COLOR=#0000b3][U]Thanks.[/U][/COLOR][/SIZE][/I][/B]
 
