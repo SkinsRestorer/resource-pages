@@ -5,7 +5,7 @@ Our BBCode and Markdown from SpigotMC, Hangar, Ore and other websites.
 
 ```
 [CENTER][B][SIZE=4][URL='https://skinsrestorer.net/discord']Join us at our Discord [ATTACH=full]709036[/ATTACH] server for support[/URL]  :)[/SIZE][/B]
-[SIZE=5][COLOR=#00b300]Completely working from 1.8 till 1.20[/COLOR][COLOR=#006633][B].4[/B][/COLOR][COLOR=#00b300] Spigot![/COLOR][/SIZE][/CENTER]
+[SIZE=5][COLOR=#00b300]Completely working from 1.8 till 1.21 Spigot![/COLOR][/SIZE][/CENTER]
 
 [CENTER][SIZE=4]If you use [COLOR=#0080ff]TLauncher[/COLOR], [URL='https://skinsrestorer.net/docs/troubleshooting/launcher-issues#tlauncher']read the documentation[/URL] to fix compatibility issues[/SIZE]
 
@@ -40,7 +40,6 @@ Currently, you can use SkinsRestorer on these platforms:
 [B][SIZE=5]Servers:[/SIZE][/B]
 [LIST]
 [*][I]CraftBukkit and forks (e.g. Spigot, Paper, Purpur, TacoSpigot)[/I]
-[*][I]Sponge (SpongeForge mods sometimes are incompatible)[/I]
 [/LIST]
 [I][B][SIZE=5]Proxies:[/SIZE][/B][/I]
 [LIST]
@@ -99,10 +98,6 @@ Bukkit[/B]
 [B]Velocity[/B]
 [URL='https://bstats.org/plugin/velocity/SkinsRestorer'][IMG]https://bstats.org/signatures/velocity/SkinsRestorer.svg[/IMG] [/URL]
 
-[SPOILER="bStats sponge"]
-[B]Sponge[/B]
-[IMG]https://bstats.org/signatures/sponge/SkinsRestorer.svg[/IMG]
-[/SPOILER]
 
 [B][I][SIZE=6][COLOR=rgb(0, 0, 179)]Want to support us and the plugin?[/COLOR][/SIZE]
 [SIZE=4]We have spent much of our time working on SkinsRestorer, we made it free, so that any server could enjoy it.
