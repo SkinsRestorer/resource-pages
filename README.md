@@ -81,15 +81,6 @@ Angel_0 - Retired Support
 HyperGaming18 - Retired Support
 [/SPOILER]
 
-[B][SIZE=6][COLOR=#0000b3]Tools[/COLOR][/SIZE][/B]
-Here are some tools built for SkinsRestorer:
-
-[SIZE=5][COLOR=rgb(89, 179, 0)][B]SkinFile Generator[/B][/COLOR][/SIZE]
-With SkinFile Generator you can upload your own custom .png skin to get a unique .skin file that you can put in your skins folder. Check it out [URL='https://skinsrestorer.github.io/SkinFile-Generator/']on GitHub[/URL].
-
-[SIZE=5][COLOR=rgb(89, 179, 0)][B]SkinSystem[/B][/COLOR][/SIZE]
-SkinSystem is a website that can interact with AuthMe to allow users to upload, manage, view and select custom skins on a website. Check it out [URL='https://github.com/SkinsRestorer/SkinSystem']on GitHub[/URL].
-
 [B][SIZE=6][COLOR=rgb(0, 0, 179)]Server Stats[/COLOR][/SIZE]
 Bukkit[/B]
 [URL='http://bstats.org/plugin/bukkit/SkinsRestorer'][IMG]https://bstats.org/signatures/bukkit/SkinsRestorer.svg[/IMG][/URL]
