@@ -38,7 +38,7 @@ Currently, you can use SkinsRestorer on these platforms:
 
 [B][SIZE=5]Servers:[/SIZE][/B]
 [LIST]
-[*][I]CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia)[/I]
+[*][I]CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia)[/I] ([URL='https://github.com/SkinsRestorer/SkinsRestorer#telescope-compatibility']Supported versions[/URL])
 [/LIST]
 [I][B][SIZE=5]Proxies:[/SIZE][/B][/I]
 [LIST]
