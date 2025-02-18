@@ -179,7 +179,7 @@ SkinsRestorer is a plugin that restores skins for offline mode servers & network
 Currently, you can use SkinsRestorer on these platforms:
 ### **Servers:**
 
-* *CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia)*
+* *CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia)* ([Supported versions](https://github.com/SkinsRestorer/SkinsRestorer#telescope-compatibility))
 
 ### **Proxies:**
 
