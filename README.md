@@ -244,11 +244,6 @@ For more info, see [[wiki](https://github.com/skinsrestorer/SkinsRestorer/wiki/i
 * Restart the server.
 * *Optional* Edit the config inside **bungee/plugins/SkinsRestorer/** folder.
 
-**For Sponge:**
-
-* Place the plugin in .**/mods/** folder *(where Sponge is located).*
-* Restart the server.
-
 **For Velocity:**
 **[!] Paper is suggested for velocity [!]**
 
