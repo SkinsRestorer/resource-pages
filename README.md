@@ -38,7 +38,7 @@ Currently, you can use SkinsRestorer on these platforms:
 
 [B][SIZE=5]Servers:[/SIZE][/B]
 [LIST]
-[*][I]CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia)[/I] ([URL='https://github.com/SkinsRestorer/SkinsRestorer#telescope-compatibility']Supported versions[/URL])
+[*]CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia) ([URL='https://github.com/SkinsRestorer/SkinsRestorer#telescope-compatibility']Supported versions[/URL])
 [/LIST]
 [I][B][SIZE=5]Proxies:[/SIZE][/B][/I]
 [LIST]
@@ -177,12 +177,12 @@ SkinsRestorer is a plugin that restores skins for offline mode servers & network
 Currently, you can use SkinsRestorer on these platforms:
 ### **Servers:**
 
-* *CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia)* ([Supported versions](https://github.com/SkinsRestorer/SkinsRestorer#telescope-compatibility))
+* CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia) ([Supported versions](https://github.com/SkinsRestorer/SkinsRestorer#telescope-compatibility))
 
 ### **Proxies:**
 
-* *BungeeCord and forks (e.g. Waterfall, FlexPipe)*
-* *Velocity*
+* BungeeCord and forks (e.g. Waterfall, FlexPipe)
+* Velocity
 
 ## **How can I install SkinsRestorer?**
 
