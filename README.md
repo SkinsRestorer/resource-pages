@@ -1,5 +1,5 @@
 # resource-pages
-Our BBCode and Markdown from SpigotMC, Hangar, Ore and other websites.
+Our BBCode and Markdown from SpigotMC, Hangar, Modrinth and other websites.
 
 ## [SpigotMC](https://www.spigotmc.org/resources/skinsrestorer.2124)
 
@@ -167,7 +167,7 @@ New goals soon? ;)
 # SkinsRestorer
 
 #### <center>[Join us at our Discord  server for support](https://skinsrestorer.net/discord)  :)
-##### <center>Completely working from 1.8 till 1.19.4 Spigot!
+##### <center>Completely working from 1.8 till 1.21 Spigot!
 ##### <center>IF you use Tlauncher, turn "Use Skins" OFF under account settings
 
 ### <center> [Wiki](https://github.com/skinsrestorer/SkinsRestorer/wiki) | [Discord Support Chat](https://skinsrestorer.net/discord) | [DEV build](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer/) |  [Source](https://github.com/skinsrestorer/SkinsRestorer/releases)
