@@ -4,7 +4,7 @@ Our BBCode and Markdown from SpigotMC, Hangar, Modrinth and other websites.
 ## [SpigotMC](https://www.spigotmc.org/resources/skinsrestorer.2124)
 
 ```
-[CENTER][B][SIZE=4][URL='https://skinsrestorer.net/discord']Join us at our Discord [ATTACH=full]709036[/ATTACH] server for support[/URL]  :)[/SIZE][/B]
+[CENTER][B][SIZE=4][URL='https://skinsrestorer.net/discord']Join us at our Discord [ATTACH=full]709036[/ATTACH] server for support[/URL]  :)[/SIZE][/B][/CENTER]
 
 [CENTER][SIZE=4]If you use [COLOR=#0080ff]TLauncher[/COLOR], [URL='https://skinsrestorer.net/docs/troubleshooting/launcher-issues#tlauncher']read the documentation[/URL] to fix compatibility issues[/SIZE]
 
