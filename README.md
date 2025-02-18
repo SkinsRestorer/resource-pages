@@ -39,7 +39,7 @@ Currently, you can use SkinsRestorer on these platforms:
 
 [B][SIZE=5]Servers:[/SIZE][/B]
 [LIST]
-[*][I]CraftBukkit and forks (e.g. Spigot, Paper, Purpur, TacoSpigot)[/I]
+[*][I]CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia)[/I]
 [/LIST]
 [I][B][SIZE=5]Proxies:[/SIZE][/B][/I]
 [LIST]
@@ -172,16 +172,6 @@ New goals soon? ;)
 
 ### <center> [Wiki](https://github.com/skinsrestorer/SkinsRestorer/wiki) | [Discord Support Chat](https://skinsrestorer.net/discord) | [DEV build](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer/) |  [Source](https://github.com/skinsrestorer/SkinsRestorer/releases)
 
-## **Tools:**
-Useful tools for custom skins:
-
-### **SkinFile Generator**
-With SkinFile Generator you can upload your own custom .png skin to get a unique .skin file that you can put in your skins folder. Check it out here: [https://skinsrestorer.github.io/SkinFile-Generator/](https://skinsrestorer.github.io/SkinFile-Generator/)
-
-### **SkinSystem**
-SkinSystem is a website that can interact with AuthMe (and forum)
-to allow users to upload, manage, view and select custom skins on a website. Check it out here: [https://github.com/SkinsRestorer/SkinSystem](https://github.com/SkinsRestorer/SkinSystem)
-
 ## **What is SkinsRestorer?**
 SkinsRestorer is a plugin that restores skins for offline mode servers & networks that gives the players ability to change their skins by typing a single command.
 
@@ -189,7 +179,6 @@ SkinsRestorer is a plugin that restores skins for offline mode servers & network
 Yes. There are videos about SkinsRestorer in French, Spanish, German, Italian and portuguese!
 <details>
 <summary>videos</summary>
-
 
 *(They might be outdated!)*
 ## **French
@@ -212,11 +201,7 @@ Nederlands
 Currently, you can use SkinsRestorer on these platforms:
 ### **Servers:**
 
-* *CraftBukkit*
-* *Spigot*
-* *Paper*
-* *Purpur*
-* *Folia*
+* *CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia)*
 
 ### **Proxies:**
 
@@ -224,65 +209,14 @@ Currently, you can use SkinsRestorer on these platforms:
 * *Velocity*
 
 ## **How can I install SkinsRestorer?**
-It's easy to install SkinsRestorer.
-Follow this little guide, so you don't go wrong :)
-For more info, see [[wiki](https://github.com/skinsrestorer/SkinsRestorer/wiki/installing-skinsrestorer)]
-**Note: Make sure to review BungeeCord installation steps if you're using a proxy!**
 
-**For Spigot / Paper:**
+*It's easy to install SkinsRestorer!*
 
-* Place the plugin in **./plugins/** folder.
-* Restart the server.
-* *Optional* Edit the config.yml inside **./plugins/SkinsRestorer/** folder.
+All the steps are detailed in [our installation guide](https://skinsrestorer.net/docs/installation).
 
-**For BungeeCord / Waterfall:**
+## **What are the Commands and Permissions?**
 
-* Place the plugin in **/plugins/** folders of **every Spigot** server.
-* Place the plugin in **/plugins/** folder of **every BungeeCord** server.
-* Check & set on **every Spigot** server **spigot.yml** -> **bungeecord: true**
-* Give **permissions** inside the **bungee** server
-* Restart the server.
-* *Optional* Edit the config inside **bungee/plugins/SkinsRestorer/** folder.
-
-**For Velocity:**
-**[!] Paper is suggested for velocity [!]**
-
-* Place the SkinsRestorer.jar in **/plugins/** folders of **every Paper** server.
-* Place the SkinsRestorer.jar in **/plugins/** folder of **every Velocity** server.
-* Check & set on **every Paper** server **paper.yml** -> **velocity-support: enabled: true**
-* Restart (/restart or /stop) all servers [PlugMan and /reload are NOT supported, use /stop or /end]
-* *Optional* Edit the config inside **velocity/plugins/skinsrestorer/** folder.
-
-## **What are the Commands?**
-Here's a list with commands and permissions to use them
-**Note: If you use the plugin with bungeecord you will need to set the permission on the bungeecord side** **(e.g. config.yml)**
-
-**More info & Permissions see: [[wiki](https://github.com/skinsrestorer/SkinsRestorer/wiki/cmds-&-perms#new-136-commands)]**
-[!] only works with "NewPermissions: true" (if false see old perms!)
-[!] wildcards ("*") don't work 
-
-**Player commands:**
-* /skin - main command.
-* /skin <skinname> - Sets your skin.
-* /skin url <skin.png url> [steve / slim] - set a skin from a .png url
-* /skin update - Updates your current skin.
-* /skin clear - clears your skin.
-* /skins - GUI
-
-**Admin commands:**
-* /sr - main admin command
-* /skin set <playername> <skinname> - Sets player's skin.
-* /skin clear <player> - clear a player's skin.
-* /skin update <player> update a player's skin.
-* /sr drop <skinname> - Removes skins data from database.
-* /sr createcustom <name> <skin.png url> - Define a usable custom skin.
-* /sr reload - Reloads config and locale.
-* /sr props <playername> - Returns properties of a player.
-* /sr status - check the plugin status.
-
-**Additional Permissions:**
-* *skinsrestorer.*bypasscooldown -> bypasses skinscooldown config
-* *skinsrestorer.*bypassdisabled -> bypass the disabledskins list
+Read the [official documentation](https://skinsrestorer.net/docs/configuration/commands-permissions) for a list of commands and permissions.
 
 ## **What if I need support?**
 If you need any support you can **[Join us at our Discord channel](https://skinsrestorer.net/discord),**
@@ -292,10 +226,14 @@ so we can help you out :)
 * [xknat](https://www.spigotmc.org/members/57992/) - Developer
 * [Pistonmaster](https://www.spigotmc.org/members/pistonmaster.847485/) - Developer
 
-* [Logics](https://www.spigotmc.org/members/204708/) - Maintainer
 * [SloPlays](https://www.spigotmc.org/members/123155/) - Website & backend
-* Angel_0 - support
 * mono21400 - support
+
+<details>
+<summary>Retired Staff</summary>
+
+* [Logics](https://www.spigotmc.org/members/204708/) - Maintainer
+* Angel_0 - support
 * [CodeR](https://www.spigotmc.org/members/211343/) - Skinsystem intergration dev
 * ITZVGcGPmO - Skinsystem intergration dev
 
@@ -304,6 +242,8 @@ so we can help you out :)
 * [Blackfire62](https://www.spigotmc.org/members/26105/) - Retired dev
 * [DoNotSpamPls](https://www.spigotmc.org/members/247276/) - Retired dev
 * HyperGaming18 - Retired support
+
+</details>
 
 ## **Stats:**
 **Bukkit:**
