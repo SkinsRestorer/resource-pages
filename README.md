@@ -175,28 +175,6 @@ New goals soon? ;)
 ## **What is SkinsRestorer?**
 SkinsRestorer is a plugin that restores skins for offline mode servers & networks that gives the players ability to change their skins by typing a single command.
 
-## **Any videos about SkinsRestorer?**
-Yes. There are videos about SkinsRestorer in French, Spanish, German, Italian and portuguese!
-<details>
-<summary>videos</summary>
-
-*(They might be outdated!)*
-## **French
-@[YouTube](https://youtu.be/3_UPBX-l_Ss)
-Spanish
-@[YouTube](https://youtu.be/jXDjK2iooaA)
-German
-@[YouTube](https://youtu.be/96cd8J8bK0g)
-Italian
-@[YouTube](https://youtu.be/WZ24FCTX2T8)
-Português
-@[YouTube](https://youtu.be/kD_5myPSz18)
-Nederlands
-@[YouTube](https://youtu.be/fobdKSzZHLY)**
-
-</details>
-
-
 ## **Where can I use SkinsRestorer?**
 Currently, you can use SkinsRestorer on these platforms:
 ### **Servers:**
