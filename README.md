@@ -63,14 +63,12 @@ If you need any support you can [B][SIZE=4][URL='https://skinsrestorer.net/disco
 
 [URL='https://www.spigotmc.org/members/57992/']xknat[/URL] - Developer
 [URL='https://www.spigotmc.org/members/847485/']Pistonmaster[/URL] - Developer
-
 [URL='https://www.spigotmc.org/members/123155/']SloPlays[/URL] - Website & Backend
 mono21400 - Support
 
 [SPOILER="Retired Staff"]
 [URL='https://www.spigotmc.org/members/211343/']CodeR[/URL] - Retired Skinsystem intergration dev
 ITZVGcGPmO - Retired Skinsystem intergration dev
-
 [URL='https://www.spigotmc.org/members/204708/']Logics[/URL] - Retired Maintainer
 Angel_0 - Retired Support
 [URL='https://www.spigotmc.org/members/1332/']McLive[/URL] - Retired Developer
