@@ -93,7 +93,6 @@ PloudOS - 52 USD - [URL='https://ploudos.com/']PloudOS.com[/URL]
 [URL='https://www.spigotmc.org/members/138812/']doublexe[/URL] 3 USD - [URL='http://136.243.175.97']DoksCraft Network[/URL]
 [URL='https://www.spigotmc.org/members/41992/']laer[/URL] 3 USD - [URL='http://packmancraft.enjin.com']PackManCraft[/URL]
 [/SPOILER]
-
 [SIZE=3][I](we are not open for paid advertising)[/I][/SIZE]
 [SIZE=4]end, no seriously just give us a star already ^w^.
 
