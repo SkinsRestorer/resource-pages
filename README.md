@@ -163,7 +163,7 @@ New goals soon? ;)
 # [Hangar](https://hangar.papermc.io/SRTeam/SkinsRestorer) & [Modrinth](https://modrinth.com/plugin/skinsrestorer)
 
 ```markdown
-# SkinsRestorer
+# <center>SkinsRestorer
 
 #### <center>[Join us at our Discord server for support](https://skinsrestorer.net/discord) :D
 ##### <center>If you use *TLauncher*, [read the documentation](https://skinsrestorer.net/docs/troubleshooting/launcher-issues#tlauncher) to fix compatibility issues
@@ -201,7 +201,6 @@ so we can help you out :)
 ## **Meet the Team:**
 * [xknat](https://www.spigotmc.org/members/57992/) - Developer
 * [Pistonmaster](https://www.spigotmc.org/members/pistonmaster.847485/) - Developer
-
 * [SloPlays](https://www.spigotmc.org/members/123155/) - Website & backend
 * mono21400 - support
 
@@ -212,7 +211,6 @@ so we can help you out :)
 * Angel_0 - support
 * [CodeR](https://www.spigotmc.org/members/211343/) - Skinsystem intergration dev
 * ITZVGcGPmO - Skinsystem intergration dev
-
 * [McLive](https://www.spigotmc.org/members/1332/) - Retired dev
 * [Th3Tr0LLeR](https://www.spigotmc.org/members/21930/) - Retired Founder
 * [Blackfire62](https://www.spigotmc.org/members/26105/) - Retired dev
