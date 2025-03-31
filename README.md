@@ -120,42 +120,8 @@ PloudOS - 52 USD - [URL='https://ploudos.com/']PloudOS.com[/URL][/B]
 
 [B][I][SIZE=6][COLOR=#0000b3][U]Thanks.[/U][/COLOR][/SIZE][/I][/B]
 
-[SIZE=6][COLOR=#0000b3][B]How many can downloads we reach?[/B][/COLOR][/SIZE]
-[SPOILER="old history here"]
-[COLOR=#00ff00]100 Downloads
-500 Downloads
-1000 Downloads[/COLOR]
-[SIZE=4][COLOR=#00ff00]1500 Downloads[/COLOR][/SIZE]
-[COLOR=#00ff00]2500 Downloads
-5000 Downloads[SIZE=5][B] - YEAH :D[/B][/SIZE]
-10 000 Downloads[SIZE=5][B] - YEYY :D[/B][/SIZE][/COLOR]
-[SIZE=5][COLOR=#00ff00][B]15 000 Downloads[/B][/COLOR]
-[SIZE=5][COLOR=#00ff00][B]20 000 Downloads[/B][/COLOR][/SIZE]
-[COLOR=#00ff00][B]50 000 Downloads - 50K !!!!! THIS IS AWESOME ! !![/B][/COLOR][/SIZE]
-[B][B][SIZE=5][COLOR=#00ff00][B][B]75 000 Downloads - Aiming for 100k now! :)[/B][/B]
-100 000 Downloads - What Now? 150k ??!
-150 000 Downloads - Insane :D
-200 000 Downloads - Didn't expect that so fast, lel :D[/COLOR][/SIZE][/B][/B]
-[SIZE=5][SIZE=5][SIZE=5][COLOR=#00ff00][B]250 000 Downloads - Is it even possible? (Yeah)[/B]
-[B]300 000 Downloads - Nope xD (idk why and how)[/B]
-[B]350 000 Downloads - <3[/B]
-[B]400 000 Downloads - lel xD Can't even imagine what happened...[/B][/COLOR][/SIZE][/SIZE][/SIZE]
-[B][SIZE=5][COLOR=#00ff00]What now ? A half million? 500k ?? - Why not XD
-[I][B][SIZE=6][COLOR=#00ff00]1 000 000 Downloads ?!?![/COLOR][/SIZE][/B][/I][/COLOR][/SIZE]
-[SIZE=5][COLOR=#00ff00][I][SIZE=6][COLOR=#00ff00]OOF 1,5 Million in the stats?? - 2/2019[/COLOR][/SIZE][/I][/COLOR][/SIZE]
-[SIZE=5][COLOR=#00ff00][I][SIZE=6][COLOR=#00b300]2 Million maybe?[/COLOR][COLOR=#80ff00] - 21-12-2019[/COLOR][/SIZE][/I][/COLOR][/SIZE]
-[SIZE=5][COLOR=#00ff00][I][SIZE=6][COLOR=#00b300]3?[/COLOR][COLOR=#00ff00] - 9/2020[/COLOR][/SIZE][/I][/COLOR][/SIZE]
-[SIZE=5][COLOR=#00ff00][I][SIZE=6][COLOR=#80ff00]4? - 16-03-2021[/COLOR][/SIZE][/I][/COLOR][/SIZE]
-[SIZE=5][COLOR=#00ff00][I][SIZE=6][COLOR=rgb(128, 255, 0)]7,[/COLOR][/SIZE][SIZE=3][COLOR=#00b359][B]half way to 10[/B][/COLOR][/SIZE][SIZE=6][COLOR=rgb(128, 255, 0)]-10-02-2022[/COLOR][/SIZE][/I][/COLOR][/SIZE]
-[SIZE=5][COLOR=#00ff00][I][SIZE=6][COLOR=rgb(128, 255, 0)]9 - 17-8-2022[/COLOR][/SIZE][/I][/COLOR][/SIZE]
-[SIZE=5][COLOR=#00ff00][I][SIZE=6][COLOR=#80ff00]10M? "Would be nice" ~SloPlays[/COLOR][/SIZE][/I][/COLOR][/SIZE]
-[SIZE=5][COLOR=#00ff00][I][SIZE=6][COLOR=#80ff00]MORE THAN 2nd & 3th & 4th COMBINED[/COLOR][/SIZE][/I][/COLOR][/SIZE][/B]
-[/SPOILER]
-You've crushed all goals!!!
-New goals soon? ;)
-
 [SIZE=3][I](we are not open for paid advertising)[/I][/SIZE]
-[SIZE=4]end, no seriously just rate us already ^w^
+[SIZE=4]end, no seriously just give us a star already ^w^.
 
 [B]If you're having issues using the plugin, please contact us BEFORE making a review. We *cannot* give support in the review section.[/B][/SIZE]
 ```
@@ -170,35 +136,35 @@ New goals soon? ;)
 
 ### <center>[Website](https://skinsrestorer.net) | [Documentation](https://skinsrestorer.net/docs) | [Discord Server](https://skinsrestorer.net/discord) | [Dev builds](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer/)
 
-## **What is SkinsRestorer?**
+## What is SkinsRestorer?
 SkinsRestorer is a plugin that restores skins for offline mode servers & networks that gives the players ability to change their skins by typing a single command.
 
-## **Where can I use SkinsRestorer?**
+## Where can I use SkinsRestorer?
 Currently, you can use SkinsRestorer on these platforms:
-### **Servers:**
+### Servers:
 
 * CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia) ([Supported versions](https://github.com/SkinsRestorer/SkinsRestorer#telescope-compatibility))
 
-### **Proxies:**
+### Proxies:
 
 * BungeeCord and forks (e.g. Waterfall, FlexPipe)
 * Velocity
 
-## **How can I install SkinsRestorer?**
+## How can I install SkinsRestorer?
 
 *It's easy to install SkinsRestorer!*
 
 All the steps are detailed in [our installation guide](https://skinsrestorer.net/docs/installation).
 
-## **What are the Commands and Permissions?**
+## What are the Commands and Permissions?
 
 Read the [official documentation](https://skinsrestorer.net/docs/configuration/commands-permissions) for a list of commands and permissions.
 
-## **What if I need support?**
+## What if I need support?
 If you need any support you can **[Join us at our Discord channel](https://skinsrestorer.net/discord),**
 so we can help you out :)
 
-## **Meet the Team:**
+## Meet the Team:
 * [xknat](https://www.spigotmc.org/members/57992/) - Developer
 * [Pistonmaster](https://www.spigotmc.org/members/pistonmaster.847485/) - Developer
 * [SloPlays](https://www.spigotmc.org/members/123155/) - Website & backend
@@ -219,18 +185,18 @@ so we can help you out :)
 
 </details>
 
-## **Stats:**
+## Stats:
 **Bukkit:**
-[![https://bstats.org/signatures/bukkit/SkinsRestorer.svg](https://bstats.org/signatures/bukkit/SkinsRestorer.svg)](http://bstats.org/plugin/bukkit/skinsrestorer)
+[![Bukkit bStats](https://bstats.org/signatures/bukkit/SkinsRestorer.svg)](http://bstats.org/plugin/bukkit/skinsrestorer)
 **BungeeCord:**
-[![https://bstats.org/signatures/bungeecord/SkinsRestorer.svg](https://bstats.org/signatures/bungeecord/SkinsRestorer.svg)](http://bstats.org/plugin/bungeecord/skinsrestorer)
+[![BungeeCord bStats](https://bstats.org/signatures/bungeecord/SkinsRestorer.svg)](http://bstats.org/plugin/bungeecord/skinsrestorer)
 **Velocity:**
-[![https://bstats.org/signatures/velocity/SkinsRestorer.svg](https://bstats.org/signatures/velocity/SkinsRestorer.svg)](https://bstats.org/plugin/velocity/skinsrestorer) 
+[![Velocity bStats](https://bstats.org/signatures/velocity/SkinsRestorer.svg)](https://bstats.org/plugin/velocity/skinsrestorer) 
 
-## **Want to support us and the plugin?**
-We have spent many of our time by working on to this, we made it free so that any server could enjoy it.
-If you're a big server and plan to use this consider donating to us (PM) so that I can thank you and keep working on this.
+## Want to support us and the plugin?
+We have spent much of our time working on SkinsRestorer, we made it free, so that any server could enjoy it.
+Please consider [donating to us](https://skinsrestorer.net/donate) if you are a large server and would like to thank us. This allows us to continue working on this project.
 
 ##### *(we are not open for paid advertising)*
-end, no seriously just rate us already ^w^.
+end, no seriously just give us a star already ^w^.
 ```
