@@ -152,12 +152,12 @@ so we can help you out :)
 
 </details>
 
-## Stats:
-**Bukkit:**
+## Stats
+### Bukkit
 [![Bukkit bStats](https://bstats.org/signatures/bukkit/SkinsRestorer.svg)](http://bstats.org/plugin/bukkit/skinsrestorer)
-**BungeeCord:**
+### BungeeCord
 [![BungeeCord bStats](https://bstats.org/signatures/bungeecord/SkinsRestorer.svg)](http://bstats.org/plugin/bungeecord/skinsrestorer)
-**Velocity:**
+### Velocity
 [![Velocity bStats](https://bstats.org/signatures/velocity/SkinsRestorer.svg)](https://bstats.org/plugin/velocity/skinsrestorer) 
 
 ## Want to support us and the plugin?
