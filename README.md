@@ -104,24 +104,15 @@ PloudOS - 52 USD - [URL='https://ploudos.com/']PloudOS.com[/URL]
 ```markdown
 # <center>SkinsRestorer
 
-#### <center>[Join us at our Discord server for support](https://skinsrestorer.net/discord) :D
-##### <center>If you use *TLauncher*, [read the documentation](https://skinsrestorer.net/docs/troubleshooting/launcher-issues#tlauncher) to fix compatibility issues
-
-### <center>[Website](https://skinsrestorer.net) | [Documentation](https://skinsrestorer.net/docs) | [Discord Server](https://skinsrestorer.net/discord) | [Dev builds](https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer/)
+### <center>[![documentation](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_vector.svg)](https://skinsrestorer.net/docs) [![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://skinsrestorer.net/discord) [![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_vector.svg)](https://translate.skinsrestorer.net/)
 
 ## What is SkinsRestorer?
 SkinsRestorer is a plugin that restores skins for offline mode servers & networks that gives the players ability to change their skins by typing a single command.
 
 ## Where can I use SkinsRestorer?
-Currently, you can use SkinsRestorer on these platforms:
-### Servers:
 
-* CraftBukkit and forks (e.g. Spigot, Paper, Purpur, Folia) ([Supported versions](https://github.com/SkinsRestorer/SkinsRestorer#telescope-compatibility))
-
-### Proxies:
-
-* BungeeCord and forks (e.g. Waterfall, FlexPipe)
-* Velocity
+![bukkit](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/bukkit_vector.svg) ![spigot](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/spigot_vector.svg) ![paper](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/paper_vector.svg) ![purpur](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/purpur_vector.svg)
+![velocity](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/velocity_vector.svg) ![bungeecord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/bungeecord_vector.svg) ![waterfall](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/waterfall_vector.svg)
 
 ## How can I install SkinsRestorer?
 
@@ -134,8 +125,10 @@ All the steps are detailed in [our installation guide](https://skinsrestorer.net
 Read the [official documentation](https://skinsrestorer.net/docs/configuration/commands-permissions) for a list of commands and permissions.
 
 ## What if I need support?
-If you need any support you can **[Join us at our Discord channel](https://skinsrestorer.net/discord),**
+If you need any support you can **[join our Discord server](https://skinsrestorer.net/discord),**
 so we can help you out :)
+
+[![Discord Banner](https://discord.com/api/guilds/186794372468178944/widget.png?style=banner2)](https://skinsrestorer.net/discord)
 
 ## Meet the Team:
 * [xknat](https://www.spigotmc.org/members/57992/) - Developer
