@@ -112,6 +112,7 @@ SkinsRestorer is a plugin that restores skins for offline mode servers & network
 ## Where can I use SkinsRestorer?
 
 ![bukkit](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/bukkit_vector.svg) ![spigot](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/spigot_vector.svg) ![paper](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/paper_vector.svg) ![purpur](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/purpur_vector.svg)
+
 ![velocity](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/velocity_vector.svg) ![bungeecord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/bungeecord_vector.svg) ![waterfall](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/waterfall_vector.svg)
 
 ## How can I install SkinsRestorer?
