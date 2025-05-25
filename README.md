@@ -164,6 +164,8 @@ so we can help you out :)
 We have spent much of our time working on SkinsRestorer, we made it free, so that any server could enjoy it.
 Please consider [donating to us](https://skinsrestorer.net/donate) if you are a large server and would like to thank us. This allows us to continue working on this project.
 
+[![kofi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-plural_vector.svg)](https://ko-fi.com/skinsrestorer) [![paypal](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/paypal-plural_vector.svg)](https://skinsrestorer.net/donate)
+
 ##### *(we are not open for paid advertising)*
 end, no seriously just give us a star already ^w^.
 ```
