@@ -132,40 +132,46 @@ so we can help you out :)
 [![Discord Banner](https://discord.com/api/guilds/186794372468178944/widget.png?style=banner2)](https://skinsrestorer.net/discord)
 
 ## Meet the Team:
-* [xknat](https://www.spigotmc.org/members/57992/) - Developer
-* [Pistonmaster](https://www.spigotmc.org/members/pistonmaster.847485/) - Developer
-* [SloPlays](https://www.spigotmc.org/members/123155/) - Website & backend
+* [xknat](https://github.com/xknat) - Developer
+* [Pistonmaster](https://github.com/AlexProgrammerDE) - Developer
+* [SloPlays](https://github.com/aljaxus) - Website & backend
 * mono21400 - support
 
 <details>
 <summary>Retired Staff</summary>
 
-* [Logics](https://www.spigotmc.org/members/204708/) - Maintainer
+* [Logics](https://github.com/Logics4) - Maintainer
 * Angel_0 - support
-* [CodeR](https://www.spigotmc.org/members/211343/) - Skinsystem intergration dev
-* ITZVGcGPmO - Skinsystem intergration dev
-* [McLive](https://www.spigotmc.org/members/1332/) - Retired dev
-* [Th3Tr0LLeR](https://www.spigotmc.org/members/21930/) - Retired Founder
-* [Blackfire62](https://www.spigotmc.org/members/26105/) - Retired dev
-* [DoNotSpamPls](https://www.spigotmc.org/members/247276/) - Retired dev
+* [riflowth](https://github.com/riflowth) - Skinsystem intergration dev
+* [fezerngodo](https://github.com/fezerngodo) - Skinsystem intergration dev
+* [McLive](https://github.com/McLive) - Retired dev
+* [Th3Tr0LLeR](https://github.com/Th3Tr0LLeR) - Retired Founder
+* Blackfire62 - Retired dev
+* [DoNotSpamPls](https://github.com/DoNotSpamPls) - Retired dev
 * HyperGaming18 - Retired support
 
 </details>
 
 ## Stats
+
 ### Bukkit
+
 [![Bukkit bStats](https://bstats.org/signatures/bukkit/SkinsRestorer.svg)](http://bstats.org/plugin/bukkit/skinsrestorer)
+
 ### BungeeCord
+
 [![BungeeCord bStats](https://bstats.org/signatures/bungeecord/SkinsRestorer.svg)](http://bstats.org/plugin/bungeecord/skinsrestorer)
+
 ### Velocity
+
 [![Velocity bStats](https://bstats.org/signatures/velocity/SkinsRestorer.svg)](https://bstats.org/plugin/velocity/skinsrestorer) 
 
 ## Want to support us and the plugin?
+
 We have spent much of our time working on SkinsRestorer, we made it free, so that any server could enjoy it.
 Please consider [donating to us](https://skinsrestorer.net/donate) if you are a large server and would like to thank us. This allows us to continue working on this project.
 
 [![kofi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-plural_vector.svg)](https://ko-fi.com/skinsrestorer) [![paypal](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/paypal-plural_vector.svg)](https://skinsrestorer.net/donate)
 
-##### *(we are not open for paid advertising)*
 end, no seriously just give us a star already ^w^.
 ```
