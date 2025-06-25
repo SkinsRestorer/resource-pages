@@ -46,7 +46,7 @@ If you need any support you can [B][URL='https://skinsrestorer.net/discord']join
 [URL='https://bstats.org/plugin/velocity/skinsrestorer'][IMG]https://bstats.org/signatures/velocity/SkinsRestorer.svg[/IMG][/URL]
 
 [SIZE=5][B]Want to support us and the plugin?[/B][/SIZE]
-We have spent much of our time working on SkinsRestorer, we made it free, so that any server could enjoy it. Please consider [URL='https://skinsrestorer.net/donate']donating to us[/URL] if you are a large server and would like to thank us. This allows us to continue working on this project.
+We have spent much of our time working on SkinsRestorer, we made it free, so that any server could enjoy it. Please consider [URL='https://skinsrestorer.net/donate']donating to us[/URL] if you would like to thank us. This allows us to continue working on this project.
 
 [URL='https://ko-fi.com/skinsrestorer'][IMG]https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Fdonate%2Fkofi-plural_vector.svg&n=-1[/IMG][/URL] [URL='https://skinsrestorer.net/donate'][IMG]https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Fdonate%2Fpaypal-plural_vector.svg&n=-1[/IMG][/URL]
 
@@ -123,7 +123,7 @@ so we can help you out :)
 ## Want to support us and the plugin?
 
 We have spent much of our time working on SkinsRestorer, we made it free, so that any server could enjoy it.
-Please consider [donating to us](https://skinsrestorer.net/donate) if you are a large server and would like to thank us. This allows us to continue working on this project.
+Please consider [donating to us](https://skinsrestorer.net/donate) if you would like to thank us. This allows us to continue working on this project.
 
 [![kofi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-plural_vector.svg)](https://ko-fi.com/skinsrestorer) [![paypal](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/paypal-plural_vector.svg)](https://skinsrestorer.net/donate)
 
