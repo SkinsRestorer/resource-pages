@@ -4,6 +4,8 @@ Our BBCode and Markdown from SpigotMC, Hangar, Modrinth and other websites.
 ## [SpigotMC](https://www.spigotmc.org/resources/skinsrestorer.2124)
 
 ```
+[SIZE=6][COLOR=#ff0000][B]Hey! We decided to no longer post new versions on SpigotMC, you will now always download the latest release and you can find our releases on our [URL='https://github.com/SkinsRestorer/SkinsRestorer#readme']GitHub page[/URL].[/B][/COLOR][/SIZE]
+
 [CENTER][SIZE=6][B]SkinsRestorer[/B][/SIZE]
 [SIZE=4][B][URL='https://skinsrestorer.net/docs'][IMG]https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Fdocumentation%2Fghpages_vector.svg&n=-1[/IMG][/URL] [URL='https://skinsrestorer.net/discord'][IMG]https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Fsocial%2Fdiscord-plural_vector.svg&n=-1[/IMG][/URL] [URL='https://translate.skinsrestorer.net/'][IMG]https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Ftranslate%2Fcrowdin_vector.svg&n=-1[/IMG][/URL][/B][/SIZE][/CENTER]
 [SIZE=5][B]What is SkinsRestorer?[/B][/SIZE]
